@@ -1,0 +1,19 @@
+RANCANGAN SISTEM INFORMASI E-RECRUITMENT BERBASIS WEB PADA PT.GEOSERVICES
+Nurlaili Anisah, Anton, Ummu Radiyah
+2016
+file:///C:/Users/haffi/Downloads/147-1-344-1-10-20170112.pdf
+Penelitian ini bertujuan untuk merancang aplikasi sistem perekrutan tenaga kerja
+online (studi kasus pada PT. Karya Kasih Persada). Metode penelitian yang digunakan
+adalah metode pengumpulan data, metode analisis sistem, metode perancangan sistem
+dan implementasi. Dalam merancang aplikasi sistem ini terdapat beberapa fungsi antara
+lain: fungsi lowongan kerja, fungsi melamar, fungsi informasi rekrut dan tes, fungsi hasil
+seleksi, dan fungsi kirim kandidat. Terdapat pula fungsi pendukung lain yang terkait
+dengan informasi perusahaan meliputi: profil perusahaan, legalisasi, visi dan misi, sop
+rekrutmen dan kontak person. Untuk merancang sistem ini menggunakan UML (Unfied
+Modelling Language) meliputi pembuatan use case diagram, activity diagram, class
+diagram, maupun sequence diagram. Sedangkan implementasi sistem menggunakan
+bahasa pemrograman berbasis web dengan database MySQL. Aplikasi sistem ini dapat
+dieksekusi secara online oleh para pengguna baik dimana dan kapan saja. Dengan
+adanya aplikasi sistem ini maka perusahaan mampu mengolah data secara cepat dimana
+dan kapan saja sehingga penggunaan sumber daya perusahaan dapat dioptimalkan
+secara efisien dan informasi yang dihasilkan sesuai dengan sasaran perusahaan. 

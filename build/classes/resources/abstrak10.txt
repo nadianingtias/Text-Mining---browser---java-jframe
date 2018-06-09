@@ -1,0 +1,19 @@
+Analisis Data Spasial Penyakit Difteri di Provinsi Jawa Timur Tahun 2010 DAN 2011
+Nailul Izza, Soenarnatalina Pusat Humaniora, Kebijakan Kesehatan dan Pemberdayaan Masyarakat, Badan Litbang Kesehatan Fakultas kesehatan Masyarakat, Universitas Airlangga
+2015
+https://media.neliti.com/media/publications/20946-ID-analysis-of-spatial-data-of-diphtheria-disease-in-east-java-province-during-the.pdf
+Latar belakang: Pemberantasan penyakit menular membutuhkan informasi yang berbasiskan pada lokasi, yang dikenal
+sebagai Sistem Informasi Geografis (SIG), untuk membantu pengambilan keputusan. Salah satu penyakit menular yang
+kembali mencuat adalah penyakit difteri. Penyakit difteri di Provinsi Jawa Timur selalu mengalami peningkatan dan pada
+tahun 2010 menyumbang kasus terbesar di Indonesia yakni 73%. Pada tahun 2011, penyakit difteri di Jawa Timur menduduki
+peringkat pertama di dunia sebanyak 664 kasus dengan CFR 2,6%. Tujuan: Penelitian ini bertujuan melakukan analisis
+penyakit difteri dengan menggunakan data spasial dihubungkan dengan faktor risikonya di Provinsi Jawa Timur tahun 2010
+dan 2011. Penelitian ini menggunakan data sekunder dari BPS Provinsi Jawa Timur dan Dinas Kesehatan Provinsi Jawa
+Timur. Unit analisis adalah 38 Kabupaten/Kota Provinsi Jawa Timur. Analisis spasial dilakukan dengan melakukan overlay
+antara variabel difteri dengan variabel faktor risiko. Hasil: Analisis spasial untuk distribusi penyakit cenderung meningkat
+pada tahun 2010 dan 2011, dan adanya dominasi jumlah kasus yang tinggi di Kota Surabaya, Kabupaten Malang, Kota
+Malang, dan kawasan tapal kuda meliputi Pulau Madura. Hasil overlay menunjukkan adanya hubungan antara penyakit
+difteri dengan cakupan imunisasi DPT3 dan cakupan imunisasi DT yang secara analisis statistik mempunyai kekuatan
+hubungan sedang (r = 0,424 dan r = 0,348). Kesimpulan: Faktor yang mendukung terjadinya penyakit difteri adalah
+imunisasi DPT3 dan DT. Saran: perlu ada penelitian spasial dengan unit analisis kecamatan karena setiap wilayah memiliki
+karakteristik khusus.

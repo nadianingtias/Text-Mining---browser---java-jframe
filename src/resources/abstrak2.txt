@@ -1,0 +1,5 @@
+Telaah Metode-metode Pendeteksi Kebohongan
+I  Gede Aris Gunadi, Agus Harjoko, Jurusan Pendidikan Fisika Undiksha Singaraja, Lab Elektronika Instrumentasi UGM Yogyakarta
+2012
+https://jurnal.ugm.ac.id/ijccs/article/view/2150
+Pendeteksi kebohongan adalah aplikasi yang menerapkan berbagai cabang ilmu pengetahuan(psikologi,kedokteran,biologi,fisika,komputer,dan lain lain). Aplikasi pendeteksi kebohongan sangatlah berguna terutama dikalangan penegak hukum, untuk mengungkap fakta fakta. Pada prinsipnya metode pendekteksi kebohongan bekerja berdasarkan perubahan respon fisiologis tubuh manusia, yang diakibatkan oleh usahanya untuk menutupi kebohongannya.Dalam paper ini akan dibahas berbagai pendekatan metode yang telah dikembangkan untuk mendeteksi kebohongan,diantaranya deteksi kebohongan berdasarkan konduktivitas kulit, bentuk tulisan tangan , isi ( content tulisan), analisis suara, termograpy, dan gesture.

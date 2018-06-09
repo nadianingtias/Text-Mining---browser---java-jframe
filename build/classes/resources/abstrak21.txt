@@ -1,0 +1,16 @@
+ANALISIS DAN DESAIN MODEL SISTEM E-RECRUITMENT PADA LEMBAGA PENGEMBANGAN KOMPUTERISASI 
+Rifiana Arief, Ihsan Jatnika, Hustinawati
+2017
+file:///C:/Users/haffi/Downloads/KNSI_2013_Ihsan.pdf
+Pada paper ini, penulis membuat rancangan sistem e-recruitment asisten yang akan diterapkan di Lembaga
+Pengembangan Komputerisasi Universitas Gunadarma. Lembaga ini merupakan lembaga yang
+menyelenggarakan pelatihan komputer bagi mahasiswa Universitas Gunadarma. Sistem e-recruitment ini
+dirancang untuk mengatasi kelemahan sistem yang saat ini berjalan. Kelemahan dirasakan oleh para stakeholder
+lembaga meliputi pihak laboratorium, pihak panitia seleksi, dan pihak mahasiswa sebagai calon asisten.
+Tahapan perancangan dimulai dari analisis sistem berjalan untuk mendapatkan gambaran tentang proses bisnis,
+mendefinisikan kebutuhan sistem dari aspek perbaikan proses dan aktifitas sistem, serta mendefinisikan
+kebutuhan sistem dari aspek penyimpanan data. Tahapan berikutnya adalah perancangan model sistem
+menggunakan diagram UML, meliputi diagram use-case, diagram aktifitas, dan diagram sequence.
+Hasil rancangan yang telah diperoleh dapat diterapkan untuk pembuatan aplikasi berbasis web. Dengan adanya
+rancangan sistem e-recruitment ini dapat membantu memberikan gambaran model sistem yang akan berlaku
+pada situs web e-recruitment yang akan dikembangkan. 

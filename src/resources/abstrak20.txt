@@ -1,0 +1,16 @@
+RANCANG BANGUN SISTEM INFORMASI PENDAFTARAN CPNS BERBASIS WEB PADA KOMISI YUDISIAL
+Bima Cahya Putra, Grace Gata
+2014
+file:///C:/Users/haffi/Downloads/OAJIS_21_1392.pdf
+Dalam rangka mewujudkan Pegawai Negeri Sipil yang profesional, berkualitas, dan bertanggung jawab,
+diperlukan Pegawai Negeri Sipil yang kompeten melalui sistem pengadaan yang transparan dan akuntabel serta
+bebas dari korupsi, kolusi dan nepotisme. Peranan Teknologi Informasi (TI) semakin menjadi prioritas utama
+untuk mewujudkan hal tersebut. Komisi Yudisial dalam proses penerimaan Calon Pegawai Negeri Sipil (CPNS)
+masih dilakukan dengan mempergunakan aplikasi komputer biasa dan belum terkomputerisasi sehingga
+pelaksanaan pada masing-masing tahapan berjalan secara konvesional serta proses pengarsipan masih terasa
+kurang efektif. Internet menjadikan proses semakin mudah dan cepat untuk mendapatkan informasi, karena
+dengan menggunakan sarana ini maka permasalahan waktu dan kesulitan jangkauan akan tempat yang jauh akan
+teratasi dengan mudah. Juga akan mengurangi biaya-biaya operasional yang biasanya digunakan serta dalam
+hal pendokumentasian sudah terkomputerisasi dengan baik. Dengan melakukan analisa dan membuat aplikasi
+berbasis web dapat tercipta suatu sistem yang lebih memberikan kemudahan dalam Pendaftaran CPNS di Komisi
+Yudisial.

@@ -1,0 +1,16 @@
+RANCANGAN APLIKASI E-RECRUITMENT PADA PT. KALILA INDONESIA
+Muhamad Irsan, Eka Yuliyasni, Khaerun Nufus, Suci Afrida, Eka Ratnasari 
+2014
+belum ada hyperlink
+Evolusi peradaban manusia mengalami perubahan yang sangat signifikan pada tiap kurun waktu lamanya.
+Perusahaan bertransformasi dan membutuhkan tenaga kerja terampil yang dapat membawa perusahaan kearah
+lebih baik, aspek perekrutan mulai mendapatkan pandangan khusus, karena proses perekrutan yang tidak sesuai
+dengan kebutuhan perusahaan dapat menghambat laju perusahaan untuk berkembang. Banyaknya permintaan
+karyawan dari tiap divisi PT. Kalila Indonesia membutuhkan tenaga kerja yang terampil dan profesional dalam
+bidangnya. E-Recruitment merupakan sebuah metode perekrutan calon tenaga kerja perusahaan menggunakan
+media komunikasi internet, sehingga perekrutan dapat dilaksanakan secara efektif dan efisien guna mendapatkan
+tenaga kerja yang sesuai dengan kebutuhan perusahaan. Untuk memperoleh data-data yang diperlukan selama
+penelitian, maka digunakan beberapa metode, antara lain : wawancara, observasi, dan studi pustaka. Data yang
+diperoleh kemudian dianalisis dan digambarkan dengan menggunakan metode pemodelan yang berorientasi
+objek seperti UML (Unified Modelling Language). Hasil penelitian berupa aplikasi yang diharapkan lebih efektif
+bagi perusahaan dalam menjalankan sistem rekrut karyawannya.

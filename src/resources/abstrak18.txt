@@ -1,0 +1,16 @@
+RANCANGAN SISTEM REKRUTMEN KARYAWAN BERBASIS WEB PADA PT. FAST FOOD INDONESIA REGION PEKANBARU
+Liza Trisnawati , Evi Syafrizal 
+2015
+http://rabit.univrab.ac.id/13579/files/RANCANGAN%20SISTEM%20REKRUTMEN%20KARYAWAN%20BERBASIS%20WEB%20PADA%20PT.%20FAST%20FOOD%20INDONESIA%20REGION%20PEKANBARU.pdf
+Sistem yang dirancang ini adalah sistem perekrutan karyawan baru di
+perusahaan PT. Fast food Indonesia Region Pekanbaru. Dengan diterapkannya
+sistem perekrutan karyawan baru ini, maka bagi pihak yang akan melamar
+pekerjaan dapat dengan mudah mengkases dan memberikan informasi tanpa harus
+datang langsung ke perusahaan. Selain itu, sistem perekrutan ini juga bisa
+memberikan kemudahan apabila pihak perusahaan membutuhkan informasi
+mengenai pelamar jika dibutuhkan karyawan untuk menempati posisi yang akan
+ditempati. Sistem yang dibuat menggunakan pendekatan SDLC dan bertujuan untuk
+mempermudah bagi pelamar pada saat mengajukan lamaran yang diinginkan dan
+staff HRD dalam melakukan seleksi lamaran yang masuk. Selain itu, penggunaan
+sistem ini dapat mengurangi tumpukan berkas berupa kertas yang dapat
+menghabiskan ruang

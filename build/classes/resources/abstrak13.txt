@@ -1,0 +1,5 @@
+SISTEM INFORMASI PENERIMAAN KARYAWAN BERBASIS WEB DI PT CHEVRON PASIFIK INDONESIA (StudiKasus di PT Chevron Pasifik Indonesia-Riau)
+Kemala, Mellisa Citra
+2015
+http://repository.widyatama.ac.id/xmlui/handle/123456789/5902
+Sistem informasi penerimaan karyawan adalah sistem informasi yang digunakan untuk pendaftaran pelamar yang melamar kerja di perusahaan tersebut. Permasalahan yang muncul adalah belum adanya suatu sistem informasi yang membantu dalam menangani masalah penerimaan karyawan secara otomatis. Metode yang diajukan dalam pembangunan sistem ini yaitu dengan menggunakan bahasa pemograman PHP ,pemodelan sistemnya menggunakan dengan Data Flow Diagram (DFD) dan menggunakan website yaitu XAMPP dan PHP sebagai toolsnya. Dengan adanya aplikasi Sistem Informasi Penerimaan Karyawan ini, maka diharapkan dapat membantu meningkatkan sistem penerimaan karyawan di PT Chevron Pasifik Indonesia yang selama ini sudah berjalan, sekaligus dapat membantu pelamar mencari informasi dan lamaran kerja di perusahaan tersebut.

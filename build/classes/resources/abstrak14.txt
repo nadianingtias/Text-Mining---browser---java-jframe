@@ -1,0 +1,14 @@
+SISTEM INFORMASI PENERIMAAN KARYAWAN BERBASIS WEB PADA BRT TRANS SEMARANG
+Putri Hapsari1, Purwatiningtyas
+2017
+file:///C:/Users/haffi/Downloads/5536-3706-1-SM.pdf
+Penelitian ini bertujuan untuk menghasilkan perangkat lunak Sistem Informasi Penerimaan Karyawan
+Baru Berbasis Web dengan PHP dan SQL yang mampu mengelola pelaksanaan Penerimaan Karyawan Baru
+yaitu pendaftaran, tes pengetahuan umum, tes psikotest dan pengumuman. Pada penelitian ini juga ditentukan
+tingkat kelayakan perangkat lunak yang telah dibuat. Jenis penelitian ini adalah Research and Development.
+Metode pengembangan perangkat lunak menggunakan Waterfall Model. Pengujian perangkat lunak dilakukan
+melalui pengujian white-box dan black-box. Teknik pengumpulan data pada penelitian menggunakan
+wawancara. Hasil penelitian menunjukkan bahwa Sistem Informasi Penerimaan Karyawan Baru Berbasis Web
+dengan PHP dan SQL ini mampu mengelola pelaksanaan Penerimaan Karyawan Baru yaitu pendaftaran, tes
+pengetahuan umum, tes psikotest dan pengumuman. Penilaian oleh instansi BRT Trans Semarang menunjukkan
+bahwa perangkat lunak ini sangat layak dari segi correctness, reliability, dan integrity. 
