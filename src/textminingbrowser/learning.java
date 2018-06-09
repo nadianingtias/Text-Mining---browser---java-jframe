@@ -6,7 +6,7 @@
 package TextMiningBrowser;
 
 public class learning {
-    public static void main(String[] args) {
+    public static void main2(String[] args) {
         //tahapan pada tokenizing
         String kalimat = "Output Awal : Dampak kecanduan internet (internet addiction) pada remaja\n" +
 "Siti Nurina Hakim, Aliffatullah Alyu Raj, Fakultas Psikologi Universitas Muhammadiyah Surakarta\n" +

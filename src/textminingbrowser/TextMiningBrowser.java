@@ -19,7 +19,7 @@ import static textminingbrowser.readFileArtikel.listFilesForFolder;
 public class TextMiningBrowser {
     private static Scanner scanner = new Scanner(System.in);
 //    ArrayList<String> 
-    public static void main(String[] args) {  
+    public static void main2(String[] args) {  
         ArrayList<File> listFiles = new ArrayList<>(); //siapkan tempat untuk tampung semua file
         final File folder = new File("E:\\Users\\Nadian\\Documents\\NetBeansProjects\\TextMiningBrowser\\src\\resources");
         

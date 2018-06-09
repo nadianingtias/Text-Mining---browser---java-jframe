@@ -9,7 +9,7 @@ import java.io.File;
 import java.util.ArrayList;
 
 public class readFileArtikel {
-    public static void main(String[] args) {
+    public static void main2(String[] args) {
         ArrayList<File> listFiles = new ArrayList<>();
         final File folder = new File("C:\\Users\\ASUS\\Documents\\NetBeansProjects\\TextMiningBrowser\\src\\resources");
         listFiles = listFilesForFolder(folder);
